@@ -1,0 +1,26 @@
+#produtos,#sobre,#fale{
+    min-height: 100vh;
+    padding: 4em;
+}
+
+#produtos{
+    background-color: bisque;
+    color: brown;
+}
+
+#sobre{
+    background-color: cadetblue;
+    color: bisque;
+}
+
+#fale{
+    background-color: brown;
+    color: white;
+}
+
+nav{
+    position: fixed;
+    margin-top: 0px;
+    width: 100%;
+}
+

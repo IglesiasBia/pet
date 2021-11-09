@@ -24,3 +24,14 @@ nav{
     width: 100%;
 }
 
+#produtos img{
+    max-height: 350px;
+}
+
+.card h5{
+    text-align: center;
+}
+
+h1{
+    margin-bottom: 1em;
+}
